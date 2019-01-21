@@ -1,0 +1,11 @@
+C:\Users\Shreyas\source\repos\Stringss\Stringss\bin\Debug\netcoreapp2.1\Stringss.deps.json
+C:\Users\Shreyas\source\repos\Stringss\Stringss\bin\Debug\netcoreapp2.1\Stringss.runtimeconfig.json
+C:\Users\Shreyas\source\repos\Stringss\Stringss\bin\Debug\netcoreapp2.1\Stringss.runtimeconfig.dev.json
+C:\Users\Shreyas\source\repos\Stringss\Stringss\bin\Debug\netcoreapp2.1\Stringss.dll
+C:\Users\Shreyas\source\repos\Stringss\Stringss\bin\Debug\netcoreapp2.1\Stringss.pdb
+C:\Users\Shreyas\source\repos\Stringss\Stringss\obj\Debug\netcoreapp2.1\Stringss.csprojAssemblyReference.cache
+C:\Users\Shreyas\source\repos\Stringss\Stringss\obj\Debug\netcoreapp2.1\Stringss.csproj.CoreCompileInputs.cache
+C:\Users\Shreyas\source\repos\Stringss\Stringss\obj\Debug\netcoreapp2.1\Stringss.AssemblyInfoInputs.cache
+C:\Users\Shreyas\source\repos\Stringss\Stringss\obj\Debug\netcoreapp2.1\Stringss.AssemblyInfo.cs
+C:\Users\Shreyas\source\repos\Stringss\Stringss\obj\Debug\netcoreapp2.1\Stringss.dll
+C:\Users\Shreyas\source\repos\Stringss\Stringss\obj\Debug\netcoreapp2.1\Stringss.pdb
